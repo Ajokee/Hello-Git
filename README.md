@@ -1,2 +1,3 @@
 # Hello-Git
-My first sit Repo
+My first git Repo
+Obviously this is a no code tutorial hehehe
